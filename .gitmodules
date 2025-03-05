@@ -1,0 +1,6 @@
+[submodule "Afford-X-Manip"]
+	path = Afford-X-Manip
+	url = git@github.com:YuyangLee/Afford-X-Manip.git
+[submodule "Afford-X"]
+	path = Afford-X
+	url = https://github.com/ZhuXMMM/Afford-X
