@@ -31,3 +31,12 @@ Please refer to the README files in each component repository for detailed insta
 
 ## License
 This project is released under the MIT License.
+
+## Citation
+If you find our code or paper useful, please consider citing:
+@misc{zhu2025affordxgeneralizableslimaffordance,
+      title={Afford-X: Generalizable and Slim Affordance Reasoning for Task-oriented Manipulation}, 
+      author={Xiaomeng Zhu and Yuyang Li and Leiyao Cui and Pengfei Li and Huan-ang Gao and Yixin Zhu and Hao Zhao},
+      journal={arXiv preprint arXiv:2503.03556},
+      year={2025}
+}
